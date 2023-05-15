@@ -5,3 +5,4 @@ saidas/tempos_graficos/*
 saidas_com_print
 saidas_sem_print
 tempos.csv
+!produtor_consumidor* .c
