@@ -15,7 +15,7 @@ do for [i in "1 10 100 1000"] {
         set ylabel "Ocupação"
 
         # Plot the data
-        plot datafile using 2:1 with points
+        plot datafile using 2:1 with points notitle
 
         # Reset the output
         unset output
