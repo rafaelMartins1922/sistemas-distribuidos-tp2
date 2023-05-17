@@ -1,7 +1,3 @@
-saidas/tempos/*
-saidas/ocupacoes/*
-saidas/ocupacoes_graficos/*
-saidas/tempos_graficos/*
 saidas_com_print
 saidas_sem_print
 tempos.csv
